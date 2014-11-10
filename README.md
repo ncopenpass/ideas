@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/codeforraleigh/ideas.png?label=ready&title=Ready)](https://waffle.io/codeforraleigh/ideas)
 ideas
 =====
 
